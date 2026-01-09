@@ -1,8 +1,9 @@
 let age = 21;
 let city = "Cairo";
-let hoppy = "football";
-let name = "Muharram";
-console.log(age);
-console.log(city);
-console.log(hoppy);
-console.log(name);
+let hobby = "football";
+let fullName = "Muharram Abobakr";
+
+console.log("Age:", age);
+console.log("City:", city);
+console.log("Hobby:", hobby);
+console.log("Name:", fullName);
