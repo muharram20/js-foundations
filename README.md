@@ -1,18 +1,20 @@
-# JavaScript Foundations
+# JS Foundations
 
-This repository documents my daily progress learning JavaScript from scratch.
+This repository documents my journey learning JavaScript from scratch.
 
-## Goals
-- Build strong JavaScript fundamentals
-- Practice daily coding
-- Track progress publicly on GitHub
+## Current Focus
+- Variables (`let`)
+- Data types (strings)
+- console.log()
+- Variable reassignment
+- Template literals
 
 ## Structure
-- `week-01/` → JavaScript basics (variables, strings, conditions, loops)
+Each folder represents one week of learning.
 
-## Progress
-- Day 1: Variables and console.log
-- Day 2: Strings and string operations
+## Practice Projects
+- Console-based JavaScript programs to practice variables, strings,
+  and updating values dynamically.
 
-## Author
-Muharram (Computer Engineering Student)
+## Goal
+Build strong programming fundamentals to work remotely and prepare for advanced fields like web development and AI.
