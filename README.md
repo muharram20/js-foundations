@@ -3,18 +3,27 @@
 This repository documents my journey learning JavaScript from scratch.
 
 ## Current Focus
-- Variables (`let`)
-- Data types (strings)
+- Variables (`let`, `const`)
+- Data types (strings, numbers, booleans)
 - console.log()
-- Variable reassignment
-- Template literals
+- Comparisons (`> < >= <= === !==`)
+- if / else statements
+- Basic functions
 
 ## Structure
-Each folder represents one week of learning.
+Each file represents one day of learning.
 
-## Practice Projects
-- Console-based JavaScript programs to practice variables, strings,
-  and updating values dynamically.
+Example:
+- day1-variables.js  
+- day2-strings.js  
+- day3-booleans.js  
+- day4-if-else.js  
+- day5-practice.js  
+- day6-functions.js  
+
+## Practice
+- Console-based JavaScript programs
+- Small exercises for logic and problem solving
 
 ## Goal
-Build strong programming fundamentals to work remotely and prepare for advanced fields like web development and AI.
+Build strong programming fundamentals to prepare for web development, AI, and remote work.
